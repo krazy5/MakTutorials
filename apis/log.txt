@@ -1,0 +1,144 @@
+Array
+(
+    [action] => update
+    [fc_id] => 0
+    [board_exam] => state board
+    [std] => 10
+    [yearly_fees] => 4.000343434E10
+    [monthly_fees] => 3.0
+    [remarks] => total fees can be reduced if installment reduced
+    [subject] => 
+)
+Array
+(
+    [action] => insert
+    [board_exam] => NTA
+    [std] => NEET
+    [yearly_fees] => 3434.0
+    [monthly_fees] => 45435.0
+    [remarks] => FSDFDS
+    [subject] => SDFDS
+)
+Array
+(
+    [action] => insert
+    [board_exam] => fALUT
+    [std] => 10
+    [yearly_fees] => 3.4343434E7
+    [monthly_fees] => 3434.0
+    [remarks] => TEST
+    [subject] => ALL
+)
+Array
+(
+    [action] => update
+    [fc_id] => 0
+    [board_exam] => state board
+    [std] => 10
+    [yearly_fees] => 4.034343E9
+    [monthly_fees] => 3.0
+    [remarks] => total fees can be reduced if installment reduced
+    [subject] => AAAA
+)
+Array
+(
+    [action] => update
+    [fc_id] => 0
+    [board_exam] => state board
+    [std] => 10343
+    [yearly_fees] => 40000.0
+    [monthly_fees] => 3.0
+    [remarks] => total fees can be reduced if installment reduced
+    [subject] => 
+)
+Array
+(
+    [action] => update
+    [fc_id] => 0
+    [board_exam] => state board
+    [std] => 10
+    [yearly_fees] => 4.00003434E8
+    [monthly_fees] => 3.0
+    [remarks] => total fees can be reduced if installment reduced
+    [subject] => 
+)
+Array
+(
+    [action] => update
+    [fc_id] => 0
+    [board_exam] => state board
+    [std] => 10
+    [yearly_fees] => 4003400.0
+    [monthly_fees] => 3.0
+    [remarks] => total fees can be reduced if installment reduced
+    [subject] => 
+)
+Array
+(
+    [action] => update
+    [fc_id] => 0
+    [board_exam] => state board
+    [std] => 10
+    [yearly_fees] => 4003400.0
+    [monthly_fees] => 3.0
+    [remarks] => total fees can be reduced if installment reduced
+    [subject] => 
+)
+Array
+(
+    [action] => update
+    [fc_id] => 0
+    [board_exam] => state board
+    [std] => 10
+    [yearly_fees] => 4003400.0
+    [monthly_fees] => 3.0
+    [remarks] => total fees can be reduced if installment reduced
+    [subject] => 
+)
+Array
+(
+    [action] => update
+    [fc_id] => 0
+    [board_exam] => state board
+    [std] => 10
+    [yearly_fees] => 4000034.0
+    [monthly_fees] => 3.0
+    [remarks] => total fees can be reduced if installment reduced
+    [subject] => 
+)
+Array
+(
+    [action] => update
+    [fc_id] => 1
+    [board_exam] => state board
+    [std] => 10
+    [yearly_fees] => 4.000343E7
+    [monthly_fees] => 3.0
+    [remarks] => total fees can be reduced if installment reduced
+    [subject] => 
+)
+Array
+(
+    [action] => delete
+    [fc_id] => 9
+)
+Array
+(
+    [action] => delete
+    [fc_id] => 2
+)
+Array
+(
+    [action] => insert
+    [board_exam] => stateboard 
+    [std] => 12
+    [yearly_fees] => 500000.0
+    [monthly_fees] => 80000.0
+    [remarks] => testign
+    [subject] => all
+)
+Array
+(
+    [action] => delete
+    [fc_id] => 10
+)
