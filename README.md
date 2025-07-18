@@ -1,92 +1,56 @@
-﻿# \# MakTutorials
+# 📚 MakTutorials
 
-# 
+MakTutorials is a PHP-based web application built with Laravel.  
+It includes modules for student authentication, fee records, attendance, and batch management.
 
-# MakTutorials is a PHP-based web application built with Laravel.  
+---
 
-# It includes modules for student authentication, fee records, attendance, and batch management.
+## 🚀 Features
 
-# 
+- Student and Admin Authentication  
+- Dashboard for Students and Admin  
+- Fee Records Management  
+- Attendance Tracking  
+- Batch Assignment System  
 
-# \## Features
+---
 
-# 
+## 📸 Screenshots
 
-# \- Student and Admin Authentication
+### 🏠 Home Page
 
-# \- Dashboard for Students and Admin
+![Home Page](screenshots/homepage.png)  
+![Career Page](screenshots/career.png)  
+![About Us Page](screenshots/aboutus.png)  
+![Login Page 1](screenshots/login1.png)  
+![Login Page 2](screenshots/login2.png)
 
-# \- Fee Records Management
+### 📊 Admin Dashboard
 
-# \- Attendance Tracking
+![Admin Dashboard](screenshots/dashboard.png)  
+![Student Management](screenshots/student.png)
 
-# \- Batch Assignment System
+### 🌐 Sample Test Image
 
-# 
+![Test Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/1200px-Walking_tiger_female.jpg)
 
+---
 
+## ⚙️ Requirements
 
-\## 📸 Screenshots
+- PHP >= 8.0  
+- Laravel >= 9  
+- MySQL  
+- Composer  
 
+---
 
+## 🛠️ Setup Instructions
 
-\### 🏠 Home Page
-
-
-
-![Home Page](screenshots/homepage.png)
-
-!\[career Page](screenshots/career.png)
-
-!\[about us Page](screenshots/aboutus.png)
-
-!\[login page](screenshots/login1.png)
-
-!\[login Page](screenshots/login2.png)
-
-\### 📊 Admin Dashboard
-
-
-
-!\[Dashboard](screenshots/dashboard.png)
-
-!\[Dashboard](screenshots/student.png)
-
-!\[Test Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking\_tiger\_female.jpg/1200px-Walking\_tiger\_female.jpg)
-
-
-
-# \## Requirements
-
-# 
-
-# \- PHP >= 8.0
-
-# \- Laravel >= 9
-
-# \- MySQL
-
-# \- Composer
-
-# 
-
-# \## Setup Instructions
-
-# 
-
-# ```bash
-
-# git clone https://github.com/yourusername/MakTutorials.git
-
-# cd MakTutorials
-
-# composer install
-
-# cp .env.example .env
-
-# php artisan key:generate
-
-# php artisan migrate
-
-# 
-
+```bash
+git clone https://github.com/yourusername/MakTutorials.git
+cd MakTutorials
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
